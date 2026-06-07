@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+._*
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependencies / build (none expected in a docs repo, but kept for safety)
+node_modules/
+dist/
+.next/
