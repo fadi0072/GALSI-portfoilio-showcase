@@ -213,7 +213,19 @@ portfolio-showcase/
 └── assets/
     └── placeholders/                 ← placeholder assets only
 ```
+### Frontend Stagging Test Link
 
+https://witty-pond-0b24bf70f.2.azurestaticapps.net/
+
+### Frontend Client Server Test Link
+
+https://salmon-mud-0d531890f.6.azurestaticapps.net/
+
+### Api Documentations
+
+https://galsi-backend-core-service.azurewebsites.net/docs
+
+<br><br>
 ---
 
 ## Professional Disclaimer
